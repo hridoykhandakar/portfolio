@@ -104,15 +104,17 @@ export default function Home() {
               <h4 className="text-lg py-4 text-teal-600 ">
                 Design Tools I Use
               </h4>
-              <div className="flex gap-2">
-                <p className="bg-teal-600 rounded-full text-white p-2 ">
+              <div className="flex gap-2 justify-center">
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2 ">
                   Photoshop
                 </p>
-                <p className="bg-teal-600 rounded-full text-white p-2">
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
                   Illustrator
                 </p>
-                <p className="bg-teal-600 rounded-full text-white p-2">Figma</p>
-                <p className="bg-teal-600 rounded-full text-white p-2">
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
+                  Figma
+                </p>
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
                   Indesign
                 </p>
               </div>
@@ -126,14 +128,16 @@ export default function Home() {
               </p>
               <h4 className="text-lg py-4 text-teal-600">Design Tools I Use</h4>
               <div className="flex gap-2 justify-center">
-                <p className="bg-teal-600 rounded-full text-white p-2">
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
                   Photoshop
                 </p>
-                <p className="bg-teal-600 rounded-full text-white p-2">
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
                   Illustrator
                 </p>
-                <p className="bg-teal-600 rounded-full text-white p-2">Figma</p>
-                <p className="bg-teal-600 rounded-full text-white p-2">
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
+                  Figma
+                </p>
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
                   Indesign
                 </p>
               </div>
@@ -152,14 +156,16 @@ export default function Home() {
               </p>
               <h4 className="text-lg py-4 text-teal-600">Design Tools I Use</h4>
               <div className="flex gap-2 justify-center">
-                <p className="bg-teal-600 rounded-full text-white p-2">
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
                   Photoshop
                 </p>
-                <p className="bg-teal-600 rounded-full text-white p-2">
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
                   Illustrator
                 </p>
-                <p className="bg-teal-600 rounded-full text-white p-2">Figma</p>
-                <p className="bg-teal-600 rounded-full text-white p-2">
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
+                  Figma
+                </p>
+                <p className="bg-teal-600 rounded-full text-xs text-white p-2">
                   Indesign
                 </p>
               </div>
