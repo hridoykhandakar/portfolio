@@ -1,7 +1,7 @@
 import Image from "next/image";
 import web1 from "../public/web1.png";
 import web2 from "../public/web2.png";
-import web4 from "../public/web4.png";
+import web4 from "../public/web3.png";
 import web6 from "../public/web6.png";
 import { AiFillGithub, AiOutlineLink } from "react-icons/ai";
 
@@ -28,19 +28,19 @@ const Projects = () => {
             className="rounded-md object-cover"
             width={"100%"}
             height={"100%"}
-            src={web1}
+            src={web4}
           />
           <div class="absolute top-0 left-0 w-full h-0 flex justify-center  gap-4 items-center bg-gray-700 opacity-0 group-hover:h-full group-hover:opacity-90 duration-500">
             <a
               class="flex items-center gap-2 mt-5 px-4 py-2 rounded-full bg-teal-400 text-white "
-              href="#"
+              href="https://movie-bazars.netlify.app/"
             >
               <AiOutlineLink />
               <span>Live</span>
             </a>
             <a
               class="flex items-center gap-2 mt-5 px-4 py-2 rounded-full bg-teal-400 text-white "
-              href="#"
+              href="https://github.com/hridoykhandakar/Movie-Bazar"
             >
               <AiFillGithub />
               <span>Source Code</span>
@@ -52,19 +52,19 @@ const Projects = () => {
             className="rounded-md object-cover"
             width={"100%"}
             height={"100%"}
-            src={web2}
+            src={web1}
           />
           <div class="absolute top-0 left-0 w-full h-0 flex justify-center  gap-4 items-center bg-gray-700 opacity-0 group-hover:h-full group-hover:opacity-90 duration-500">
             <a
               class="flex items-center gap-2 mt-5 px-4 py-2 rounded-full bg-teal-400 text-white "
-              href="#"
+              href="https://hrk-weaves.netlify.app/"
             >
               <AiOutlineLink />
               <span>Live</span>
             </a>
             <a
               class="flex items-center gap-2 mt-5 px-4 py-2 rounded-full bg-teal-400 text-white "
-              href="#"
+              href="https://github.com/hridoykhandakar/react-music-player"
             >
               <AiFillGithub />
               <span>Source Code</span>
@@ -77,19 +77,19 @@ const Projects = () => {
             className="rounded-md object-cover"
             width={"100%"}
             height={"100%"}
-            src={web4}
+            src={web2}
           />
           <div class="absolute top-0 left-0 w-full h-0 flex justify-center  gap-4 items-center bg-gray-700 opacity-0 group-hover:h-full group-hover:opacity-90 duration-500">
             <a
               class="flex items-center gap-2 mt-5 px-4 py-2 rounded-full bg-teal-400 text-white "
-              href="#"
+              href="https://github.com/hridoykhandakar/fcal"
             >
               <AiOutlineLink />
               <span>Live</span>
             </a>
             <a
               class="flex items-center gap-2 mt-5 px-4 py-2 rounded-full bg-teal-400 text-white "
-              href="#"
+              href="https://hrkfc.netlify.app/"
             >
               <AiFillGithub />
               <span>SourceCode</span>
