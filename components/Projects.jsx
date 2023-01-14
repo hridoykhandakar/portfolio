@@ -107,14 +107,14 @@ const Projects = () => {
           <div class="absolute top-0 left-0 w-full h-0 flex justify-center  gap-4 items-center bg-gray-700 opacity-0 group-hover:h-full group-hover:opacity-90 duration-500">
             <a
               class="flex items-center gap-2 mt-5 px-4 py-2 rounded-full bg-teal-400 text-white "
-              href="#"
+              href="https://hridoykhandakar.github.io/tasty/"
             >
               <AiOutlineLink />
               <span>Live</span>
             </a>
             <a
               class="flex items-center gap-2 mt-5 px-4 py-2 rounded-full bg-teal-400 text-white "
-              href="#"
+              href="https://github.com/hridoykhandakar/tasty"
             >
               <AiFillGithub />
               <span>Source Code</span>
