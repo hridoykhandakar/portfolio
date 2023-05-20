@@ -33,7 +33,7 @@ const Projects = () => {
           <div class="absolute top-0 left-0 w-full h-0 flex justify-center  gap-4 items-center bg-gray-700 opacity-0 group-hover:h-full group-hover:opacity-90 duration-500">
             <a
               class="flex items-center gap-2 mt-5 px-4 py-2 rounded-full bg-teal-400 text-white "
-              href="https://movie-bazars.netlify.app/"
+              href="https://glistening-salmiakki-38d335.netlify.app/"
             >
               <AiOutlineLink />
               <span>Live</span>

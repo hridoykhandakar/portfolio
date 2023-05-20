@@ -23,7 +23,7 @@ const Nav = ({ handleDark }) => {
             <a
               className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8 "
               target="_blank"
-              href="https://drive.google.com/file/d/14AYaSd2uVrHhzBKlFOxAcUu9u2w8v3mG/view?usp=share_link"
+              href="https://drive.google.com/file/d/1uLaChlzW-L-i1V572Pt9vPeekf_ek9sO/view?usp=sharing"
             >
               Resume
             </a>
